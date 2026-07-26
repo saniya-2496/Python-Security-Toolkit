@@ -16,8 +16,3 @@ A CLI-based port scanning utility written in Python that interfaces with Nmap to
 ## 💻 Usage
 ```bash
 python network_scanner.py
-
-## Output
-
-<img width="506" height="302" alt="image" src="https://github.com/user-attachments/assets/4bc76e8f-0521-44c2-9a89-a72a99910114" />
-
