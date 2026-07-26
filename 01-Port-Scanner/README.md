@@ -2,6 +2,9 @@
 
 A CLI-based port scanning utility written in Python that interfaces with Nmap to perform host discovery, port state analysis, and service detection.
 
+![Port Scanner Demo 1](network_scanner_1.png)
+![Port Scanner Demo 2](network_scanner_2.png)
+
 ## 🚀 Features
 * **Firewall Bypass:** Uses the `-Pn` flag to skip ICMP ping checks[cite: 3].
 * **Fast Discovery:** Scans common ports quickly using `-F`[cite: 3].
