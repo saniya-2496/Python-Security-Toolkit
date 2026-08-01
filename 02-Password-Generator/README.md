@@ -1,6 +1,7 @@
 # 🔑 Module 02: Secure Password Generator
 
 ![Password Generator Demo](password_generator_1.png)
+![Password Generator Demo](password_generator_2.png)
 
 A CLI utility for generating customizable, high-entropy passwords with terminal styling powered by `rich`.
 
